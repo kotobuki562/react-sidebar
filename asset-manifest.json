@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-sidebar/static/css/main.ca298e24.chunk.css",
+    "main.js": "/react-sidebar/static/js/main.13447759.chunk.js",
+    "main.js.map": "/react-sidebar/static/js/main.13447759.chunk.js.map",
+    "runtime-main.js": "/react-sidebar/static/js/runtime-main.62864f84.js",
+    "runtime-main.js.map": "/react-sidebar/static/js/runtime-main.62864f84.js.map",
+    "static/js/2.c45ce394.chunk.js": "/react-sidebar/static/js/2.c45ce394.chunk.js",
+    "static/js/2.c45ce394.chunk.js.map": "/react-sidebar/static/js/2.c45ce394.chunk.js.map",
+    "index.html": "/react-sidebar/index.html",
+    "static/css/main.ca298e24.chunk.css.map": "/react-sidebar/static/css/main.ca298e24.chunk.css.map",
+    "static/js/2.c45ce394.chunk.js.LICENSE.txt": "/react-sidebar/static/js/2.c45ce394.chunk.js.LICENSE.txt",
+    "static/media/logo.f13078c1.svg": "/react-sidebar/static/media/logo.f13078c1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62864f84.js",
+    "static/js/2.c45ce394.chunk.js",
+    "static/css/main.ca298e24.chunk.css",
+    "static/js/main.13447759.chunk.js"
+  ]
+}
